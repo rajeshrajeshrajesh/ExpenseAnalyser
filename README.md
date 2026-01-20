@@ -143,9 +143,8 @@ The app will typically run on:
 ---
 
 ## 👨‍💻 Author
-**J M Sunil Sairaj**  
-Full Stack Developer | Computer Science Student  
-📧 sunilsairaj2210709@ssn.edu.in
+**Rajesh G**  
+Full Stack Developer | Computer Science Student at **SSN College of Engineering**
 
 ---
 
