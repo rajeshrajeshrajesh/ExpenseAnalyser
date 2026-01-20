@@ -100,8 +100,8 @@ JWT_SECRET=your_secret_key
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/sunil081103/expense-analyser.git
-cd expense-analyser
+git clone https://github.com/rajeshrajeshrajesh/ExpenseAnalyser.git
+cd ExpenseAnalyser
 ```
 
 ### 2️⃣ Backend Setup
